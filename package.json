@@ -26,5 +26,15 @@
   "bugs": {
     "url": "https://github.com/AvraamMavridis/angular2-clickoutside-directive/issues"
   },
-  "homepage": "https://github.com/AvraamMavridis/angular2-clickoutside-directive#readme"
+  "homepage": "https://github.com/AvraamMavridis/angular2-clickoutside-directive#readme",
+  "devDependencies": {
+    "@types/core-js": "^0.9.0",
+    "angular2": "^2.0.0-beta.17",
+    "ts-helpers": "^1.1.1",
+    "tslint": "^3.4.0",
+    "tslint-loader": "^2.1.0",
+    "typedoc": "^0.4.4",
+    "typedoc": "^0.4.4",
+    "typescript": "2.0.2"
+  }
 }
