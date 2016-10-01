@@ -1,9 +1,10 @@
 {
-  "name": "angular2-click-outside",
+  "name": "angular2-clickoutside-directive",
   "version": "1.0.0",
   "description": "Angular 2 Click Outside Directive",
   "main": "index.js",
   "scripts": {
+    "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -30,11 +31,15 @@
   "devDependencies": {
     "@types/core-js": "^0.9.0",
     "angular2": "^2.0.0-beta.17",
+    "es6-promise": "^3.0.2",
+    "es6-shim": "^0.33.13",
+    "reflect-metadata": "^0.1.8",
+    "rxjs": "5.0.0-beta.12",
     "ts-helpers": "^1.1.1",
     "tslint": "^3.4.0",
     "tslint-loader": "^2.1.0",
     "typedoc": "^0.4.4",
-    "typedoc": "^0.4.4",
-    "typescript": "2.0.2"
+    "typescript": "2.0.2",
+    "zone.js": "^0.6.25"
   }
 }
