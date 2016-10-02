@@ -9,15 +9,11 @@ Angular 2 directive that provides Click Outside Functionality
 
 `npm i angular2-clickoutside-directive --save`
 
-## Use
+### Import the directive to your project and use it in your Component defining an event handler
 
-##### 1. Import the directive to your project
+```typescript
+import { ClickOutsideDirective } from 'angular2-clickoutside-directive';
 
-`import { ClickOutsideDirective } from 'angular2-clickoutside-directive';`
-
-##### 2. Use the directive in your Component and define an event handler
-
-```
 @Component({
   selector: 'my-app',
   template : `
