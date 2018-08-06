@@ -3,7 +3,7 @@ Angular 2 directive that provides Click Outside Functionality
 
 [![npm version](https://badge.fury.io/js/angular2-clickoutside-directive.svg)](https://badge.fury.io/js/angular2-clickoutside-directive)
 
-[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
+[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com) [![Greenkeeper badge](https://badges.greenkeeper.io/AvraamMavridis/angular2-clickoutside-directive.svg)](https://greenkeeper.io/)
 
 ## Install
 
